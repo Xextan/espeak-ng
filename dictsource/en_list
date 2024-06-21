@@ -766,6 +766,9 @@ adblock		$1
 add		ad
 addict		adIkt         $onlys
 addon		ad0n
+?3 address	adZrEs
+?3 address	$verb
+addressee	a#drEs'i:
 adher		adh'i@3
 adieu		a#dju:
 adieus		a#dju:z
@@ -922,8 +925,10 @@ antitheses	ant'IT@si:z
 anus		eInVs
 anxiety		aNz'aI@ti
 anxious		aNS@s
+?3 anxious	eINSI2s
 anymore		$3
 anything	EnI2TIN
+?3 anything	Eni:TIN
 apache		a#patSi
 aperitif	a#pEr@t'i:f
 apneoa		apni@
@@ -1473,6 +1478,7 @@ congressional	k@ngrES@n@L
 conker		$1
 coquina		koUk'i:n@
 conquistador	k0nk'i:st@do@
+conlang		$1
 conscience	k0nS@ns
 conscript	$2 $verb
 console		k@nsoUl $verb
@@ -1730,11 +1736,18 @@ downriver	d,aUnr'Iv3
 draconia	$alt3  // -n
 dragnet		$alt1
 dramatic	dr@matIk
+?3 dramatic	dZr@matIk
 drawer		drO@
-dreamt		drEmpt
+?3 drawer	dZrO@
+dreamt		drEmt
+?3 dreamt	dZrEmt
 drier		draI3
+?3 drier	dZraI3
 driest		draI|@st
+?3 driest	dZraI|@st
+dromedary	drOm@de@ri
 duet		dju:'Et
+?3 duet		du:w'Et
 dugout		dVgaUt
 dumber		dVm3
 dumbest		dVm@st
@@ -1938,6 +1951,7 @@ finance		$verb
 finess		fI2nEs		// for finessed
 finesse		fI2nEs
 finite		faInaIt 
+finna		fI2n@		$verbf
 fishnet		$alt1
 fiord		fi:O@d
 fix		fIks		// for fixer
@@ -2053,7 +2067,7 @@ goddam		g0dam
 ?3 goddess	$alt2
 goin		,goUI2n $only // for goin'
 golliwog	$1
-gonna		g,@n@
+gonna		g,@n@	$verbf
 goodbye		$2
 goodday		$2
 goodnight	$2
@@ -2067,6 +2081,7 @@ gourmet		gU@meI
 gracias		grasjas
 graduate	$alt2
 graduate	gradju:eIt      $verb
+?3 graduate	gradZu:eIt      $verb
 grandma		grandmA:
 grandpa		grandpA:
 graffiti	$alt3
@@ -2265,15 +2280,18 @@ inspire		Insp'aI3
 instal		Inst'O:l	// instalment
 installation	Inst@l'eIS@n
 instinctive	$2
-insult		$2
-insult		$1 $onlys
+insult		$1
+insult		$2 $verb
 intake		Int2eIk
 intel		Int2El
 (inter alia)    Int3||'eIli@
 interim		$1
+interlock	$1
+interlock	$verb
 intermediate	Int3m'i:di@t
 interment	I2nt3:m@nt
 intern		Int3:n  $noun
+interrogative	$3
 interrogatory	$3
 interstice	I2nt3:stIs
 intestine	I2ntEstI2n
@@ -2293,6 +2311,7 @@ interval	Int3v@L
 interven	Int3v'i:n	// for intervening
 intravenous	Intr@v'i:n@s
 intray		IntreI
+intrinsic	I2ntrInzI2k
 intro		$1
 ?3 investigative Inv,EstI#g'eItIv
 ipad		$alt6
@@ -3410,6 +3429,7 @@ sir		s,3: $only
 ?5 sir		s,IR $only
 siren		saIr@n
 site		saIt          // for sited
+skedaddle	skI2dad@l
 ski		ski:
 skier		ski:3
 skies		skaIz
@@ -4137,6 +4157,7 @@ Djibouti	dZIb'u:ti
 Donegal		d0nI2g'O:l
 Donetsk		d0n'Etsk
 Dubrovnik	du:br'0vnIk
+Dusseldorf	du:s@ldO@f
 Durham		dVr@m
 Egyptia		IdZ'IpS@
 Egyptian	IdZ'IpS@n
@@ -5558,7 +5579,7 @@ hers             h3:z		$u $strend2
 its              Its		$u $nounf
 our              aU3		$u $nounf $only
 your             jO@		$u $nounf $only
-?6 your          jU@		$u $nounf $only
+?6 your          j3		$u $nounf $only
 their            De@		$u $nounf $only
 theirs           De@z
 
